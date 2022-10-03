@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionStrings": {
+    "miConexion": "Data Source=LAPTOP-DSG8LNIQ\\SQLSERVER_FER;Initial Catalog=Farmacia; User=sa; Password=123456"
+  },
+  "edad" :  56
+}
